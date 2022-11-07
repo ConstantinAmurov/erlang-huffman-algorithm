@@ -1,6 +1,6 @@
 # erlang-huffman-algorithm
 
-In this repository, I am are going to implement the algorithm of Huffman coding, which is used for data compression. First, I am are
+In this repository, I am going to implement the algorithm of Huffman coding, which is used for data compression. First, I am are
 going to define the code table. This is based on the given text. As a next step, I will define functions for encoding and decoding the text.
 
 The elements in the Huffman code table have variable lengths, based on the frequencies of the elements that appear in the sequence. The most frequent elements will be shorter than the less frequent. For more information see Huffman coding on Wikipedia.
